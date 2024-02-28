@@ -1,0 +1,5 @@
+<!-- VotreNom/Module/etc/di.xml -->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Hadil\Contacts\Model\ContactCustomer" type="Hadil\Contacts\Model\ResourceModel\ContactCustomer" />
+</config>
